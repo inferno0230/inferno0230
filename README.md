@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/inferno0230?tab)
 
-- 📫 How to reach me **adityachoudhury0230@gmail.com**
-
 - ⚡ Fun fact **I watch anime.**
 
 <h3 align="left">Connect with me:</h3>
