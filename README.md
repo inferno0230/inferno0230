@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AOSP related stuff**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/inferno0230?tab)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/inferno0230?tab=repositories)
 
 - ⚡ Fun fact **I watch anime.**
 
