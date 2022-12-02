@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Anything related to tech**
 
-- 👨‍💻 All of my projects are available at [https://github.com/inferno0230?tab=repositories](https://github.com/inferno0230?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/inferno0230?tab=repositories)
 
 - 💬 Ask me about **AOSP,Tech,Games**
 
