@@ -14,4 +14,6 @@
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inferno0230&theme=highcontrast) <br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inferno0230&theme=highcontrast)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inferno0230&theme=highcontrast) <br/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31362amvu5yhpv63mq3dtkktxxyq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1c71d8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ![](https://komarev.com/ghpvc/?username=inferno0230&label=Profile%20views&color=0e75b6&style=flat) <br/>
